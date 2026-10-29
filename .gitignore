@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Local database created by the app
+*.db

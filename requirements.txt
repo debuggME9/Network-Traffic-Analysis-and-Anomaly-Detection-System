@@ -1,0 +1,8 @@
+# Libraries used by the project (all free and open source).
+# Install with:  pip install -r requirements.txt
+streamlit>=1.50      # web dashboard
+pandas>=2.2.2        # tables and data cleaning
+numpy>=2.0           # number handling (infinite values)
+scikit-learn>=1.5    # Isolation Forest and evaluation metrics
+plotly>=5.24         # interactive charts
+pytest>=8.0          # automatic tests (python -m pytest)
